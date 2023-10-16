@@ -81,23 +81,7 @@ const aboutData = [
       },
     ],
   },
-  // {
-  //   title: 'credentials',
-  //   info: [
-  //     {
-  //       title: 'Web Development - ABC University, LA, CA',
-  //       stage: '2011',
-  //     },
-  //     {
-  //       title: 'Computer Science Diploma - AV Technical Institute',
-  //       stage: '2009',
-  //     },
-  //     {
-  //       title: 'Certified Graphic Designer - ABC Institute, Los Angeles, CA',
-  //       stage: '2006',
-  //     },
-  //   ],
-  // },
+  
 ];
 
 //components
@@ -165,7 +149,7 @@ const About = () => {
              animate="show" 
              exit="hidden" 
             className="max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0">
-              10 years ago, I began freelancing as a edveloper. Since than, I've done remote work fro agencies, counsulted for startups, and collaborated on digital products for business and consumer use.
+              Programmer, developer, cybersecuirty and blockchain. I've done remote work fro agencies like quickwebtechnologies and upcoming former backend developer at petavue.
             </motion.p>
             {/* counters */}
             <motion.div 
